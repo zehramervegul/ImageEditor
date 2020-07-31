@@ -19,7 +19,7 @@ public:
     bool readImage(string imageName);
     bool writeImageToFile(string fileName);
     bool convertToGrayscale();
-    int menu();
+   
     //getter functions
     string getImageName();
     int getArraySize();
