@@ -1,6 +1,5 @@
 # Image Editor
 
-
 ## Description
 
 This is a simple image editor without GUI. It can be used for manipulating on ppm files. 
